@@ -1,0 +1,29 @@
+body {
+  font-size: small;
+  font-family: Sofia, sans-serif, "Courier New", Courier, arial;
+  line-height: 2em;
+  background-color: pink;
+}
+h1,
+h2,
+h3 {
+  text-decoration: underline;
+  color: purple;
+  font-weight: bold;
+  font-size: large;
+}
+
+.soldier {
+  border-color: yellow;
+  border-width: 5px;
+  border-style: dashed;
+  border-radius: 20px;
+  background-color: #a7cece;
+  padding: 30px;
+  padding-left: 80px;
+  margin-right: 80px;
+  margin: 30px;
+  background-image: url(images/shinji.jfif);
+  background-repeat: repeat-x;
+  background-position: top left;
+}
